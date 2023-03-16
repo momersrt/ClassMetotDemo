@@ -1,7 +1,5 @@
-﻿<Properties StartupConfiguration="{09FB04B0-E1D2-40E2-A9EA-5A458FDA0035}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{09FB04B0-E1D2-40E2-A9EA-5A458FDA0035}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ClassMetotDemo/Program.cs">
     <Files>
       <File FileName="ClassMetotDemo/Program.cs" Line="36" Column="1" />
@@ -20,8 +18,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ClassMetotDemo PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ClassMetotDemo PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
