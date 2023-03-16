@@ -1,0 +1,15 @@
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/net7.0/ClassMetotDemo
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/net7.0/ClassMetotDemo.deps.json
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/net7.0/ClassMetotDemo.runtimeconfig.json
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/net7.0/ClassMetotDemo.dll
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/net7.0/ClassMetotDemo.pdb
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.csproj.AssemblyReference.cache
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.AssemblyInfoInputs.cache
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.AssemblyInfo.cs
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.csproj.CoreCompileInputs.cache
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.dll
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/refint/ClassMetotDemo.dll
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.pdb
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ClassMetotDemo.genruntimeconfig.cache
+/Users/momerst/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/net7.0/ref/ClassMetotDemo.dll
